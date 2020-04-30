@@ -1,18 +1,20 @@
 /* @font-face {
-    font-family: 'gooper';
+    font-family: 'goooper';
     src: url('https://raw.githubusercontent.com/rzzldzzldesign/source/blob/master/GooperCondensed5-SemiBold.woff2') format('woff2'),
         url('https://raw.githubusercontent.com/rzzldzzldesign/source/blob/master/GooperCondensed5-SemiBold.woff') format('woff');
     font-weight: 400;
     font-display: swap;
 } */
 @font-face {
-    font-family: 'gooper';
+    font-family: 'goooper';
     src: url('https://github.com/rzzldzzldesign/source/blob/master/GooperCondensed5-SemiBold.woff2?raw=true') format('woff2'),
         url('https://github.com/rzzldzzldesign/source/blob/master/GooperCondensed5-SemiBold.woff?raw=true') format('woff');
-    font-weight: 400;
     font-display: swap;
 }
 
+/* @import url('https://github.com/rzzldzzldesign/source/blob/master/GooperCondensed5-SemiBold.woff2?raw=true');
+@import url('https://github.com/rzzldzzldesign/source/blob/master/GooperCondensed5-SemiBold.woff?raw=true'); */
+
 h1 {
-    font-family: 'gooper', monospace;
+    font-family: 'goooper', monospace;
 }
